@@ -1,0 +1,23 @@
+nama = input("masukkan nama di sini! :")
+umur = input("masukkan umur kamu di sini! :")
+import time
+time.sleep(2)
+print("selamat datang "+nama+" di program peramalan masa depan")
+time.sleep(2)
+pengen = input("apa yang ingin kamu ketahui? :")
+print("sedang mencari tahu " + pengen)
+time.sleep(1)
+print("Menghitung Probabilitas 0%")
+time.sleep(3)
+print("Menghitung Probabilitas 25%")
+time.sleep(3)
+print("Menghitung Probabilitas 50%")
+time.sleep(3)
+print("Menghitung Probabilitas 75%")
+time.sleep(3)
+print("Menghitung Probabilitas 100%")
+time.sleep(1)
+print("""
+Barangsiapa yang mendatangi tukang ramal, maka shalatnya selama 40 hari tidak diterima.” 
+(HR. Muslim no. 2230, dari Shofiyah, dari beberapa istri Nabi shallallahu ‘alaihi wa sallam).""")
+time.sleep(10)
