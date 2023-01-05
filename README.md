@@ -1,3 +1,3 @@
 # Python
 
-Kumpulan kode yang saya buat ketika belajar bahasa Python
+Just a bunch of code in python language, don't look at it
